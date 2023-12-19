@@ -5,7 +5,7 @@ class cost_function :
 
     def next_position (self, a, b) : # a = azimuth b = estimated position
         next_position = []
-        theta = [10, 30, 60, 90]
+        theta = [90,180,270,360] #original[10,30,60,90]
         dd = [10, 20, 30, 40, 50]
 
         #a_i = np.tan(a)
