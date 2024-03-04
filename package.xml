@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package>
+  <name>Logistics_drone_project</name>
+  <version>0.1.0</version>
+  <description>
+
+     plan_test
+
+  </description>
+  <maintainer email="chenc159@gmail.com">chenc159</maintainer>
+  <author>chenc159</author>
+  <license>BSD</license>
+
+ 
+</package>
